@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(247, 240, 240)
+}
+
+.button-class {
+    font-size: 30px;
+}
+
+.table-class {
+    width: 100%;
+    margin-top: 10px;
+
+}
+
+#content {
+    margin-top: 5px;
+}
+.center {
+    display: block;
+    margin-right: auto;
+    margin-left: 80;
+    width: 90%;
+  }
